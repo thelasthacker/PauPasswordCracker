@@ -26,7 +26,7 @@ print("   _/ ___\_  __ \__  \ _/ ___\|  |/ // __ \_  __ \      ")
 print("   \  \___|  | \// __ \\  \___|    <\  ___/|  | \/      ")
 print("    \___  >__|  (____  /\___  >__|_ \\___  >__|         ")
 print("        \/           \/     \/     \/    \/             " + Colors.ENDC)
-print("                       V1.0                  By thelasthacker  \n")
+print("                       V1.0                  By X-Ray  \n")
    
 smtp_server = smtplib.SMTP("smtp.gmail.com", 587)
 smtp_server.ehlo()
